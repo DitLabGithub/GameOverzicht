@@ -22,6 +22,10 @@ https://ditlabgithub.github.io/SSIGame/
 
 Maak een nieuw project aan op github met readme, clone de repo via git clone <repo-naam>. Maak in unity een WebGL build en vink compressie aan als disabled. Zie hieronder de documentatie en omschrijving. Geen compressie is makkelijker te hosten dan b.v. Brotli of gzip, al zijn die wat kleiner. 
 
+In het plaatje hieronder is gzip aangevinkt. Dit moet voor ons disabled zijn:
+
+![image](https://github.com/user-attachments/assets/237bf3e2-dea1-4537-990f-1b52f8f24025)
+
  
 Unity - Manual: Deploy WebGL application
  
