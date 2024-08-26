@@ -1,7 +1,7 @@
 # GameOverzicht
 Overzicht van alle games die we hosten met een korte beschrijving.
 
-Exam day disaster:
+## H2 Exam day disaster:
 
 -Sean's versie met inventory
 https://ditlabgithub.github.io/ExamDayDisasterWEBGL/
@@ -9,11 +9,11 @@ https://ditlabgithub.github.io/ExamDayDisasterWEBGL/
 -Amber's versie zonder inventory
 https://ditlabgithub.github.io/ExamDayDisasterAmberFinal/
 
-Retro Computer Sim:
+## H2 Retro Computer Sim:
 
 https://ditlabgithub.github.io/RetroComputerSim/
 
-SSI Game door Raul:
+## H2 SSI Game door Raul:
 
 https://ditlabgithub.github.io/SSIGame/
 
