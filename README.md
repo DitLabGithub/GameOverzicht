@@ -20,6 +20,11 @@ https://ditlabgithub.github.io/RetroComputerSim/
 https://ditlabgithub.github.io/SSIGame/
 
 
+
+
+
+
+
 # Werkwijze
 
 Maak een nieuw project aan op github met readme, clone de repo via git clone <repo-naam>. Maak in unity een WebGL build en vink compressie aan als disabled. Zie hieronder de documentatie en omschrijving. Geen compressie is makkelijker te hosten dan b.v. Brotli of gzip, al zijn die wat kleiner. 
