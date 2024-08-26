@@ -11,10 +11,12 @@ https://ditlabgithub.github.io/ExamDayDisasterAmberFinal/
 
 ## Retro Computer Sim:
 
+-Laatste versie door Constantin 
 https://ditlabgithub.github.io/RetroComputerSim/
 
 ## SSI Game door Raul:
 
+-Laatste versie (wel development versie)
 https://ditlabgithub.github.io/SSIGame/
 
 
