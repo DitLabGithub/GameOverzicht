@@ -1,7 +1,7 @@
 # GameOverzicht
 Overzicht van alle games die we hosten met een korte beschrijving.
 
-## H2 Exam day disaster:
+## Exam day disaster:
 
 -Sean's versie met inventory
 https://ditlabgithub.github.io/ExamDayDisasterWEBGL/
@@ -9,11 +9,11 @@ https://ditlabgithub.github.io/ExamDayDisasterWEBGL/
 -Amber's versie zonder inventory
 https://ditlabgithub.github.io/ExamDayDisasterAmberFinal/
 
-## H2 Retro Computer Sim:
+## Retro Computer Sim:
 
 https://ditlabgithub.github.io/RetroComputerSim/
 
-## H2 SSI Game door Raul:
+## SSI Game door Raul:
 
 https://ditlabgithub.github.io/SSIGame/
 
@@ -32,7 +32,7 @@ Unity - Manual: Deploy WebGL application
 
 https://docs.unity3d.com/Manual/webgl-deploying.html
 	
-Description:
+## Description:
 
 
 gzip
