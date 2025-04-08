@@ -68,43 +68,43 @@ Bij een nieuwere versie vervang je wederom de files vanuit de uitgepakte WebGL z
 
 ## Concepten
 
-- ParadiSSIo
+- ParadiSSIo (credits: Christobal Joven Lee)
 
 ![image](https://github.com/user-attachments/assets/ef09b13a-25d8-4f97-a33a-fbae61e7fa3f)
 
-- Project Kiosk
+- Project Kiosk (credits: Christobal Joven Lee)
 
 ![image](https://github.com/user-attachments/assets/ce14b9e2-7321-45d4-a045-3959b29ddac2)
 
-- Digital Dimploma Disaster
+- Digital Dimploma Disaster (credits: Christobal Joven Lee)
 
 ![image](https://github.com/user-attachments/assets/70967eeb-6e43-4f84-ae1d-161a57fcae19)
 
-- Diploma Day Disaster
+- Diploma Day Disaster (credits: Christobal Joven Lee)
   
 ![image](https://github.com/user-attachments/assets/7ea254e5-a9ef-45ef-bf48-b47c46b2155e)
 
-- Nation of One
+- Nation of One (credits: Razvan Andrei Petcu)
   
 ![image](https://github.com/user-attachments/assets/50cc6365-1684-4e71-a05c-a5a84a84fa9f)
 
-- Data detective
+- Data detective (credits: Razvan Andrei Petcu)
   
 ![image](https://github.com/user-attachments/assets/fd958f07-52bc-42bd-bd86-25f3340b1c16)
 
-- Cocktail Master
+- Cocktail Master (credits: Razvan Andrei Petcu)
   
 ![One pager Cocktail masters](https://github.com/user-attachments/assets/982c8351-5392-4497-8ef8-b38963e10f76)
 
-- Kernel
+- Kernel (credits: Razvan Andrei Petcu)
   
 ![One pager Kernel](https://github.com/user-attachments/assets/144b660a-ba49-4e9e-8693-8a14c32ac9b6)
   
-- Honorbound
+- Honorbound (credits: Razvan Andrei Petcu)
   
 ![One pager Honorbound](https://github.com/user-attachments/assets/06b9983d-c815-4457-80e8-5c7aafe54827)
  
-- Reclaiming me
+- Reclaiming me (credits: Garon Bos)
   
 ![image](https://github.com/user-attachments/assets/276cb5b0-6c0b-42d9-8263-4a561b66a4e8)
 
