@@ -69,33 +69,43 @@ Bij een nieuwere versie vervang je wederom de files vanuit de uitgepakte WebGL z
 ## Concepten
 
 - ParadiSSIo
+
 ![image](https://github.com/user-attachments/assets/ef09b13a-25d8-4f97-a33a-fbae61e7fa3f)
 
 - Project Kiosk
+
 ![image](https://github.com/user-attachments/assets/ce14b9e2-7321-45d4-a045-3959b29ddac2)
 
 - Digital Dimploma Disaster
+
 ![image](https://github.com/user-attachments/assets/70967eeb-6e43-4f84-ae1d-161a57fcae19)
 
 - Diploma Day Disaster
+  
 ![image](https://github.com/user-attachments/assets/7ea254e5-a9ef-45ef-bf48-b47c46b2155e)
 
 - Nation of One
+  
 ![image](https://github.com/user-attachments/assets/50cc6365-1684-4e71-a05c-a5a84a84fa9f)
 
 - Data detective
+  
 ![image](https://github.com/user-attachments/assets/fd958f07-52bc-42bd-bd86-25f3340b1c16)
 
 - Cocktail Master
+  
 ![image](https://github.com/user-attachments/assets/5307d01c-5a4e-4afa-9459-665f692885fc) 
 
 - Kernel
+  
 ![image](https://github.com/user-attachments/assets/7e8980a1-ed18-41cd-8b12-fc717f74d469)
 
 - Honorbound
+  
 ![image](https://github.com/user-attachments/assets/10d9d59c-c388-4f20-baca-7c7ac9a54a57)
 
 - Reclaiming me
+  
 ![image](https://github.com/user-attachments/assets/276cb5b0-6c0b-42d9-8263-4a561b66a4e8)
 
 
