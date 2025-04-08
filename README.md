@@ -94,16 +94,16 @@ Bij een nieuwere versie vervang je wederom de files vanuit de uitgepakte WebGL z
 
 - Cocktail Master
   
-![image](https://github.com/user-attachments/assets/5307d01c-5a4e-4afa-9459-665f692885fc) 
+![One pager Cocktail masters](https://github.com/user-attachments/assets/982c8351-5392-4497-8ef8-b38963e10f76)
 
 - Kernel
   
-![image](https://github.com/user-attachments/assets/7e8980a1-ed18-41cd-8b12-fc717f74d469)
-
+![One pager Kernel](https://github.com/user-attachments/assets/144b660a-ba49-4e9e-8693-8a14c32ac9b6)
+  
 - Honorbound
   
-![image](https://github.com/user-attachments/assets/10d9d59c-c388-4f20-baca-7c7ac9a54a57)
-
+![One pager Honorbound](https://github.com/user-attachments/assets/06b9983d-c815-4457-80e8-5c7aafe54827)
+ 
 - Reclaiming me
   
 ![image](https://github.com/user-attachments/assets/276cb5b0-6c0b-42d9-8263-4a561b66a4e8)
