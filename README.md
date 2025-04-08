@@ -87,10 +87,10 @@ Bij een nieuwere versie vervang je wederom de files vanuit de uitgepakte WebGL z
 ![image](https://github.com/user-attachments/assets/fd958f07-52bc-42bd-bd86-25f3340b1c16)
 
 - Cocktail Master
-![image](https://github.com/user-attachments/assets/5307d01c-5a4e-4afa-9459-665f692885fc) ![image](https://github.com/user-attachments/assets/7e8980a1-ed18-41cd-8b12-fc717f74d469)
-
+![image](https://github.com/user-attachments/assets/5307d01c-5a4e-4afa-9459-665f692885fc) 
 
 - Kernel
+![image](https://github.com/user-attachments/assets/7e8980a1-ed18-41cd-8b12-fc717f74d469)
 
 - Honorbound
 ![image](https://github.com/user-attachments/assets/10d9d59c-c388-4f20-baca-7c7ac9a54a57)
