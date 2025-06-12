@@ -19,8 +19,9 @@ https://ditlabgithub.github.io/RetroComputerSim/
 -Laatste versie (wel development versie)
 https://ditlabgithub.github.io/SSIGame/
 
+## SSI serious game Project Kiosk:
 
-
+-Laatste versie (wel development versie)
 
 
 
