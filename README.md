@@ -29,7 +29,7 @@ https://ditlabgithub.github.io/Projekt-Kiosk/
 Throughout the internship/graduation period we will have multiple demos where we want to see the progress of the games. We want the prototype to be showcased through a WebGL build updated to your progress. This working method showcases how you should set this up.
 First make sure that in Unity you have downloaded and installed the option to build to WebGL. the platform should be active like showed in this picture.
  
-![image](https://github.com/user-attachments/assets/0041a607-0f52-4184-9118-44619d331300)
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/ccaa565e-b9f7-4ba9-8c81-67b543f7263a" />
 
 To be able to build and host on GitHub pages you should use the correct player settings. To make sure you are able to host your WebGL build through GitHub pages you will have to change the following settings. 
 - Set the Compression format to disabled
