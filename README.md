@@ -21,8 +21,12 @@ https://ditlabgithub.github.io/SSIGame/
 
 ## SSI serious game Project Kiosk:
 
+Versie Christobal, Charon en Sam
 -Laatste versie (wel development versie)
 https://ditlabgithub.github.io/Projekt-Kiosk/
+
+-Versie Petar en Saab
+https://ditlabgithub.github.io/ProjektKiosk-2026-S1/
 
 # Working method
 
